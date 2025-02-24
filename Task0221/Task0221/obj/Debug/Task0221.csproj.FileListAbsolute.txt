@@ -1,0 +1,7 @@
+C:\LikeLion\Task0221\Task0221\bin\Debug\Task0221.exe.config
+C:\LikeLion\Task0221\Task0221\bin\Debug\Task0221.exe
+C:\LikeLion\Task0221\Task0221\bin\Debug\Task0221.pdb
+C:\LikeLion\Task0221\Task0221\obj\Debug\Task0221.csproj.AssemblyReference.cache
+C:\LikeLion\Task0221\Task0221\obj\Debug\Task0221.csproj.CoreCompileInputs.cache
+C:\LikeLion\Task0221\Task0221\obj\Debug\Task0221.exe
+C:\LikeLion\Task0221\Task0221\obj\Debug\Task0221.pdb

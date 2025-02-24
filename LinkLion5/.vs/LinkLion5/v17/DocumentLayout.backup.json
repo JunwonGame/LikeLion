@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LinkLion5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9252D9F-3E5E-4DD7-A809-9A85E2B476FE}|LinkLion5\\LinkLion5.csproj|c:\\likelion\\linklion5\\linklion5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9252D9F-3E5E-4DD7-A809-9A85E2B476FE}|LinkLion5\\LinkLion5.csproj|solutionrelative:linklion5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LinkLion5\\LinkLion5\\Program.cs",
+              "RelativeDocumentMoniker": "LinkLion5\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LinkLion5\\LinkLion5\\Program.cs",
+              "RelativeToolTip": "LinkLion5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:05:51.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
